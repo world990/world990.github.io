@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://world990.github.io/posts/</loc>
+    <lastmod>2020-06-07T18:29:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://world990.github.io/</loc>
+    <lastmod>2020-06-07T18:29:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://world990.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-06-07T18:29:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://world990.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
     <lastmod>2020-06-07T17:44:57+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-06-07T17:44:57+08:00</lastmod>
+    <loc>https://world990.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
-    <lastmod>2020-06-07T17:44:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://world990.github.io/tags/</loc>
   </url>
   
 </urlset>
